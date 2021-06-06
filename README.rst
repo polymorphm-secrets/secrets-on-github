@@ -1,8 +1,8 @@
-secrets-on-gitlab
+secrets-on-github
 =================
 
-secret archives:
+the secret archives:
 
 (see ``ipfs.txt`` file)
 
-but if I told what is it would *NOT* be a secret anymore!
+but if I told you what was it, it would *NOT* be a secret anymore!
